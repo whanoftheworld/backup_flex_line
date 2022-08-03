@@ -1,0 +1,100 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/07/23/X4UQjl.png",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/3bdEvul"
+    },
+    "position": "relative",
+    "margin": "none"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🐯 บ้านเสือทอง 🐯",
+        "color": "#ffffff",
+        "size": "xl",
+        "margin": "none",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "✅ หวยทุกตัว บาทละ 1⃣0⃣0⃣/1⃣0⃣0⃣0⃣ ‼",
+        "size": "lg",
+        "color": "#F00101",
+        "align": "start",
+        "weight": "bold",
+        "decoration": "none"
+      },
+      {
+        "type": "text",
+        "text": "✅ การันตี โอนไว จ่ายจริง 💯",
+        "size": "xl",
+        "color": "#ffffff",
+        "align": "start"
+      },
+      {
+        "type": "text",
+        "text": "🇯🇵 🇻🇳 🇱🇦 ฮานอย ไทย ลาว หุ้น 🇹🇭 🇩🇪 🇨🇳",
+        "size": "xl",
+        "color": "#ffffff",
+        "align": "center"
+      }
+    ],
+    "position": "relative",
+    "cornerRadius": "none",
+    "borderWidth": "none",
+    "offsetTop": "none",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/3bdEvul"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "👉 ซื้อหวย/ส่งโพย คลิก 👈",
+          "uri": "https://bit.ly/3bdEvul"
+        },
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "📲 เข้ากลุ่ม/เช็คเครดิต คลิก 📲",
+          "uri": "https://bit.ly/3zegMSB"
+        },
+        "style": "primary",
+        "color": "#FF4500"
+      }
+    ]
+  },
+  "styles": {
+    "hero": {
+      "backgroundColor": "#000000"
+    },
+    "body": {
+      "backgroundColor": "#000000"
+    },
+    "footer": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
